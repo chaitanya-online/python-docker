@@ -1,5 +1,5 @@
 version: '3.9'
 services:
   apache:
-    image: richeb/python:v1
+    image: richeb/python:latest
     container_name: python-container
